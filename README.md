@@ -1,1 +1,1 @@
-README page test
+explain basic functionality and how to run code
